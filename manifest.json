@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/RoboticWorx/pc5-test/releases/download/dev/PolyCast5.bin",
-  "size": 2390000,
-  "info": "https://github.com/RoboticWorx/PolyCast5/releases/tag/dev"
+  "version": "0.1.3",
+  "url": "https://github.com/RoboticWorx/PolyCast5-OTA/releases/download/latest/PolyCast5.bin",
+  "size": 2744000,
+  "info": "https://github.com/RoboticWorx/PolyCast5/releases/tag/latest"
 }
